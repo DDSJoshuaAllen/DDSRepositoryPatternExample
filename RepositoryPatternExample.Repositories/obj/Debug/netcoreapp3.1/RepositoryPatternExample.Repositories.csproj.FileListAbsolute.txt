@@ -1,0 +1,12 @@
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Repositories\bin\Debug\netcoreapp3.1\RepositoryPatternExample.Repositories.deps.json
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Repositories\bin\Debug\netcoreapp3.1\RepositoryPatternExample.Repositories.dll
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Repositories\bin\Debug\netcoreapp3.1\RepositoryPatternExample.Repositories.pdb
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Repositories\bin\Debug\netcoreapp3.1\RepositoryPatternExample.Models.dll
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Repositories\bin\Debug\netcoreapp3.1\RepositoryPatternExample.Models.pdb
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Repositories\obj\Debug\netcoreapp3.1\RepositoryPatternExample.Repositories.csproj.AssemblyReference.cache
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Repositories\obj\Debug\netcoreapp3.1\RepositoryPatternExample.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Repositories\obj\Debug\netcoreapp3.1\RepositoryPatternExample.Repositories.AssemblyInfoInputs.cache
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Repositories\obj\Debug\netcoreapp3.1\RepositoryPatternExample.Repositories.AssemblyInfo.cs
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Repositories\obj\Debug\netcoreapp3.1\RepositoryPatternExample.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Repositories\obj\Debug\netcoreapp3.1\RepositoryPatternExample.Repositories.dll
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Repositories\obj\Debug\netcoreapp3.1\RepositoryPatternExample.Repositories.pdb

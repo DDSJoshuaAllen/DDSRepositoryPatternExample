@@ -1,0 +1,10 @@
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Models\bin\Debug\netcoreapp3.1\RepositoryPatternExample.Models.deps.json
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Models\bin\Debug\netcoreapp3.1\RepositoryPatternExample.Models.dll
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Models\bin\Debug\netcoreapp3.1\RepositoryPatternExample.Models.pdb
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Models\obj\Debug\netcoreapp3.1\RepositoryPatternExample.Models.csproj.AssemblyReference.cache
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Models\obj\Debug\netcoreapp3.1\RepositoryPatternExample.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Models\obj\Debug\netcoreapp3.1\RepositoryPatternExample.Models.AssemblyInfoInputs.cache
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Models\obj\Debug\netcoreapp3.1\RepositoryPatternExample.Models.AssemblyInfo.cs
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Models\obj\Debug\netcoreapp3.1\RepositoryPatternExample.Models.csproj.CoreCompileInputs.cache
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Models\obj\Debug\netcoreapp3.1\RepositoryPatternExample.Models.dll
+C:\Users\joshua allen\source\repos\RepositoryPatternExample\RepositoryPatternExample.Models\obj\Debug\netcoreapp3.1\RepositoryPatternExample.Models.pdb
